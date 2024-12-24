@@ -9,15 +9,12 @@ Start Date: 4th November
 End Date: 5th January
 
 Overview
-
 This project was completed as part of my internship at Infosys Springboard. The focus was on leveraging Power BI to perform Customer Segmentation Analysis, enabling data-driven insights and decision-making for businesses.
 
 Objective
-
 The primary objective of the project was to analyze customer data and categorize customers into distinct segments based on their behaviors, demographics, and purchasing patterns. This segmentation helps businesses target the right customers with tailored strategies.
 
 Tools and Technologies
-
 Power BI: For data visualization and reporting.
 
 Microsoft Excel: For initial data cleaning and preprocessing.
@@ -26,44 +23,7 @@ DAX (Data Analysis Expressions): For creating calculated columns and measures.
 
 Power Query: For transforming and shaping the data.
 
-Key Features of the Dashboard
-
-Demographic Segmentation:
-
-Age groups, gender distribution, and location-based insights.
-
-Behavioral Segmentation:
-
-Analysis of purchase frequency, recency, and monetary value.
-
-Visualization Tools:
-
-Interactive charts, heatmaps, and slicers for user-friendly exploration.
-
-Insights & Recommendations:
-
-Data-driven recommendations for personalized marketing strategies.
-
-Methodology
-
-Data Collection:
-
-Gathered raw customer data from provided datasets.
-
-Data Cleaning and Preprocessing:
-
-Cleaned and structured the data using Power Query and Excel.
-
-Analysis and Segmentation:
-
-Used Power BI to segment customers based on predefined metrics (e.g., RFM Analysis).
-
-Visualization and Reporting:
-
-Created an interactive dashboard to present insights clearly.
-
 Outcomes
-
 Improved proficiency in Power BI and data visualization.
 
 Enhanced understanding of customer segmentation techniques.
@@ -73,11 +33,9 @@ Gained hands-on experience in data cleaning and transformation.
 Learned how to present data-driven insights effectively to stakeholders.
 
 Conclusion
-
 This internship provided an excellent opportunity to apply my analytical and visualization skills to a real-world business problem. The final dashboard is a testament to my ability to turn raw data into actionable insights.
 
 Acknowledgments
-
 I would like to express my gratitude to Infosys Springboard for this learning opportunity and to my mentors for their guidance and support throughout the project.
 
 Contact
