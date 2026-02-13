@@ -36,6 +36,9 @@ Gained hands-on experience in data cleaning and transformation.
 
 Learned how to present data-driven insights effectively to stakeholders.
 
+Note:
+To completely experience the dashboards, download the .pbix files and try opening them using Power BI, on which I made those dahsboards.Each one is a storytelling type of dashboard which gives you detailed insights on the datasets
+
 Conclusion
 
 This internship provided an excellent opportunity to apply my analytical and visualization skills to a real-world business problem. The final dashboard is a testament to my ability to turn raw data into actionable insights.
